@@ -8,7 +8,7 @@ This module created, works in conjuction with numpy and matplot which aid in sol
 2. This is project is in working progress
 
  # Background
-A summary of what the module does
+A summary of what the module achieves 
 
 
 
