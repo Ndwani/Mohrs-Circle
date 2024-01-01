@@ -9,6 +9,10 @@ This module created, works in conjuction with numpy and matplot which aid in sol
 
  # Background
 A summary of what the module does
+
+
+
+
  ![image](https://github.com/Ndwani/Mohrs-Circle/assets/69060263/2629d20c-d1b0-4e66-a230-5e4610ba8ada)
 
  
